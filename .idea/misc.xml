@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/drawable/edit_text_back.xml" value="0.141" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.141" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/drawable/item_from_back.xml" value="0.141" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/drawable/item_to_back.xml" value="0.141" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_chats.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_groups.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_message.xml" value="0.22" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_registrition.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/fragment_splash.xml" value="0.2" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/item_from.xml" value="0.25" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/item_to.xml" value="0.33" />
+        <entry key="..\:/Shaxsiy/PDP/Vazefalar/AndroidStudio_Kotlin/ChattApp/app/src/main/res/layout/item_users.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
